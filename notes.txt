@@ -1,0 +1,52 @@
+
+39-40:  
+I can remember Eddington giving a happy example of the
+unattractiveness of ‘useful’ science. The British Association held
+a meeting in Leeds, and it was thought that the members might
+like to hear something of the applications of science to the ‘heavy
+woollen’ industry. But the lectures and demonstrations arranged
+for this purpose were rather a fiasco. It appeared that the
+members (whether citizens of Leeds or not) wanted to be
+entertained, and the ‘heavy wool’ is not at all an entertaining
+subject. So the attendance at these lectures was very disappointing; but those who lectured on the excavations at Knossos, or on
+relativity, or on the theory or prime numbers, were delighted by
+the audiences that they drew.
+
+41:
+I hope that I need not say that I am trying to decry mathematical physics, a splendid subject with tremendous problems where
+the finest imaginations have run riot. But is not the position of an
+ordinary applied mathematician in some ways a little pathetic? If
+he wants to be useful, he must work in a humdrum way, and he
+cannot give full play to his fancy even when he wishes to rise to
+the heights. ‘Imaginary’ universes are so much more beautiful
+than this stupidly constructed ‘real’ one; and most of the finest
+products of an applied mathematician’s fancy must be rejected, as
+soon as they have been created, for the brutal but sufficient
+reason that they do not fit the facts. 
+
+44
+There is one comforting conclusions which is easy for a real
+mathematician. Real mathematics has no effects on war. No one
+has yet discovered any warlike purpose to be served by the theory
+of numbers or relativity, and it seems very unlikely that anyone
+will do so for many years. It is true that there are branches of
+applied mathematics, such as ballistics and aerodynamics, which
+have been developed deliberately for war and demand a quite
+elaborate technique: it is perhaps hard to call them ‘trivial’, but
+none of them has any claim to rank as ‘real’. They are indeed
+repulsively ugly and intolerably dull; even Littlewood could not
+make ballistics respectable, and if he could not who can? So a
+real mathematician has his conscience clear; there is nothing to be
+set against any value his work may have; mathematics is, as I said
+at Oxford, a ‘harmless and innocent’ occupation. 
+
+
+
+
+
+
+    <br><br>
+    My experience with math in college can be described as momentary sparks. When I took lin alg I was so in awe over it. It felt so beautiful, rigoursly constructing, from the ground up, a mathemtical reality, namely the vector space. It hit me in a much more deeper and fundemental way than when I was learning how to create a processor, from the ground up(starting from a single bits and wires), in comp arch. I was so happy when in the finals I was 2 standard deviations above the mean and I solved the "challenge problem" at the end, I forget what the problem even was, looking at the lecture notes now it was without a doubt about adjoint transformations. I remember in freshman year trying so hard for days on end to intimately understand Stoke's theorem. 
+    <br><br>
+    But this was two years ago. It was just a spark, and I basically forgot everything. I think everything changed once I officially changed majors. It's so funny that my dad said things would be smooth sailing once I no longer had to worry about transferring, because that was absolutely not the case. I think I had a bit too much ego going into the second semester. I thought I could handle all the big boi classes(technical courses were: honors real analysis, probability theory, operating systems[ece versio], numerical analysis), and I got absolutely fucked.
+    </p>
